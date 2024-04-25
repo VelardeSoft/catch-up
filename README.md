@@ -12,3 +12,6 @@ News API client application, illustrating UI Components with Material Desing, an
 - prime vue
 - vue-i18n
 
+# Anotaciones 
+PRIMEVUE -> Configurations -> Options -> Ripple
+es una animación, para activar incluir 
